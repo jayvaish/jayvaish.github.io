@@ -3,21 +3,26 @@ export const educationData = [
         id: 1,
         institution: 'Masai School',
         course: 'Full-Stack web Devlopment',
+        startYear: 'FEB 2022 ',
+        endYear: ' NOV 2022'
+    
+    },
+
+    {
+        id: 3,
+        institution: 'RGPV University',
+        course: 'Bachelor of Engineering',
+        startYear: '2015 ',
+        endYear: ' 2019'
     },
 
     {
         id: 2,
-        institution: 'Sett R.J.J High School',
+        institution: 'Gyandeep High School',
         course: 'Higher Secondary Education',
-        startYear: '2014',
-        endYear: '2016'
+        startYear: '2014 ',
+        endYear: ' 2015'
     },
-    {
-        id: 3,
-        institution: 'Uka Tarsadia University',
-        course: 'Bachelor of Technology',
-        startYear: '2016',
-        endYear: '2020'
-    },
+    
     
 ]

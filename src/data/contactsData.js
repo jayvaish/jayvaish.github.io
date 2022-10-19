@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'jenytandel008@gmail.com',
-    phone: '+7041818898',
-    address: 'valsad Gujarat ',
+    email: 'vajaysingh2002@gmail.com',
+    phone: '+91-9753790806',
+    address: 'Burhanpur MadhyaPradesh ',
 
     sheetAPI: ''
 }

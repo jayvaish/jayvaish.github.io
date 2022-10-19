@@ -223,14 +223,14 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Resume
+                                    Education
                                     </span>
                                 </div>
                             </NavLink>
                         </Fade>
 
                         <Fade left>
-                            <NavLink
+                            {/* <NavLink
                                 to='/#services'
                                 smooth={true}
                                 spy='true'
@@ -241,14 +241,14 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Services
+                                    Skills
                                     </span>
                                 </div>
-                            </NavLink>
+                            </NavLink> */}
                         </Fade>
 
                         <Fade left>
-                            <NavLink
+                            {/* <NavLink
                                 to='/#blog'
                                 smooth={true}
                                 spy='true'
@@ -262,7 +262,7 @@ function Navbar() {
                                         Blog
                                     </span>
                                 </div>
-                            </NavLink>
+                            </NavLink> */}
                         </Fade>
 
                         <Fade left>

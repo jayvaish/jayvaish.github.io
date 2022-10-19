@@ -1,16 +1,16 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Atul Ltd',
+        company: 'Dhoot Transmisson Private Limited',
         jobtitle: 'Intrenship',
         startYear: '1 MAY-2019 ',
-        endYear: '1 June-2019'
+        endYear: '7 June-2020'
     },
     {
         id: 2,
-        company: 'BosLeo Technology Private Limited',
-        jobtitle: 'Intrenship',
-        startYear: '8 JAN-2020',
-        endYear: '8  June-2020'
+        company: 'Dhoot Transmisson Private Limited',
+        jobtitle: 'Quality Engineer',
+        startYear: '8 AUG-2020',
+        endYear: '5 June-2021'
     },
 ]
