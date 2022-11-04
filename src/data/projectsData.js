@@ -39,7 +39,7 @@ export const projectsData = [
     },
     {
         id: 1,
-        projectName: ' Mini Project ',
+        projectName: ' Calculator Project ',
         projectDesc: 'Calculate basic functions such as addition, subtraction, divison & multipication',
         tags: ['React'],
         code: 'https://github.com/jayvaish/Mini-Project-Calculator',
