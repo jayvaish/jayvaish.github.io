@@ -3,8 +3,8 @@ export const experienceData = [
         id: 1,
         company: 'Dhoot Transmisson Private Limited',
         jobtitle: 'Intrenship',
-        startYear: '1 MAY-2019 ',
-        endYear: '7 June-2020'
+        startYear: '17 June 2019 ',
+        endYear: ' 17 June 2020'
     },
     {
         id: 2,
