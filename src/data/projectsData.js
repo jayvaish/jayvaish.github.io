@@ -55,15 +55,15 @@ export const projectsData = [
         demo: 'https://630b2882801d6f1f698c876e--taupe-klepon-f0f1db.netlify.app/index.html',
         image: "https://th.bing.com/th/id/OIP.8qrbvgMKfnzyhciU6Q1ERwHaE5?w=263&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
     },
-    // {
-    //     id: 3,
-    //     projectName: 'Meesho Clone',
-    //     projectDesc: 'Meesho operates as an online reselling platform that enables anyone to start a business without investment.',
-    //     tags: ['React','MUI','Redux','Bootstrap'],
-    //     code: 'https://github.com/darkwingpatil/MeeshoClone',
-    //     demo: 'https://glittering-bavarois-1e7ddd.netlify.app/src="/static/media/one.a3146128.svg"',
-    //     image: 'https://media3.giphy.com/media/UDdw3i40IhPppgHHA8/giphy.gif?cid=6c09b9522e920cc710f5530d20dedc4b61533ea6ab8776cc&rid=giphy.gif&ct=g'
-    // },
+    {
+        id: 3,
+        projectName: 'BlueFly Project',
+        projectDesc: 'Bluefly is the original online fashion retailer. Today, Bluefly is a fast growing, fashion marketplace offering 3,000+ brands across shoes, handbags, dresses, sportswear, cashmere and even diamonds. ',
+        tags: ['React','Redux','Bootstrap'],
+        code: 'https://github.com/jayvaish/BlueFly-Project',
+        demo: 'https://prismatic-bombolone-568674.netlify.app/',
+        image: 'https://th.bing.com/th/id/OIP.v9aw_R3y9-FrC5r3HM_cJgHaDL?w=313&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7'
+    },
     // {
     //     id: 4,
     //     projectName: 'restaurant management system',
