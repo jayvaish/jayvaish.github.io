@@ -41,10 +41,10 @@ export const projectsData = [
         id: 1,
         projectName: ' Calculator Project ',
         projectDesc: 'Calculate basic functions such as addition, subtraction, divison & multipication',
-        tags: ['React'],
-        code: 'https://github.com/jayvaish/Mini-Project-Calculator',
-        demo: 'https://super-blini-e81cc1.netlify.app/',
-        image: 'https://th.bing.com/th/id/OIP.U0JObjDlvHUJlFQrAEbxvwHaIq?w=183&h=214&c=7&r=0&o=5&dpr=1.3&pid=1.7'
+        tags: ['HTML','CSS','JAVASCRIPT'],
+        code: 'https://github.com/jayvaish/Calculator-Project',
+        demo: 'https://flourishing-fairy-33d047.netlify.app/',
+        image: 'https://user-images.githubusercontent.com/39196039/40139639-27db8c64-596e-11e8-9537-04a5b5d07170.jpg'
     },
     {
         id: 2,
