@@ -102,7 +102,7 @@ const Sidebar =() =>{
                        <a href={pri} className='nav__link' id='download' download>
                         <i className="icon-link" onClick={
                             ()=>{
-                                window.open("https://drive.google.com/file/d/1VU3Ejs1yXAZMF6TUvFBuOFHSl2I6H8Pw/view?usp=share_link")
+                                window.open("https://drive.google.com/file/d/19ySf_F85iwkzKUsYdF8Y3KBN1bZzB9bF/view?usp=share_link")
                             }
                         }></i>
                         </a>
