@@ -2,12 +2,12 @@
     position :fixed;
     left:0;
     top:0;
-    background:rgb(157, 184, 233);
+    background:rgb(112, 133, 208);
     border-right:1px solid rgba(0,0,0,0.05);
     
     padding:1.5rem;
     width:110px;
-    min-height:100vh;
+    /* min-height:100vh; */
     display:flex;
     flex-direction:column;
     justify-content:space-between;
