@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.912d822a.css",
+    "main.css": "/static/css/main.6137f176.css",
     "main.js": "/static/js/main.7f423e8b.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/Ajay Rajput Resume.pdf": "/static/media/Ajay Rajput Resume.3c833f97c6adef2905c2.pdf",
@@ -10,12 +10,12 @@
     "static/media/monsterIndia.webp": "/static/media/monsterIndia.0fed08ccf911b31778f0.webp",
     "static/media/tripvilla.jpg": "/static/media/tripvilla.429ca931045f6c485a71.jpg",
     "index.html": "/index.html",
-    "main.912d822a.css.map": "/static/css/main.912d822a.css.map",
+    "main.6137f176.css.map": "/static/css/main.6137f176.css.map",
     "main.7f423e8b.js.map": "/static/js/main.7f423e8b.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.912d822a.css",
+    "static/css/main.6137f176.css",
     "static/js/main.7f423e8b.js"
   ]
 }
