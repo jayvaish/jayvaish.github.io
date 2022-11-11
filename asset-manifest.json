@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7c6eb3b7.css",
-    "main.js": "/static/js/main.ab79939c.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "main.js": "/static/js/main.7f423e8b.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/Ajay Rajput Resume.pdf": "/static/media/Ajay Rajput Resume.3c833f97c6adef2905c2.pdf",
     "static/media/weather.png": "/static/media/weather.efef2454e43d6ae1a404.png",
     "static/media/Me.jpg": "/static/media/Me.5d3e4fa4a0d77fb73955.jpg",
@@ -11,11 +11,11 @@
     "static/media/tripvilla.jpg": "/static/media/tripvilla.429ca931045f6c485a71.jpg",
     "index.html": "/index.html",
     "main.7c6eb3b7.css.map": "/static/css/main.7c6eb3b7.css.map",
-    "main.ab79939c.js.map": "/static/js/main.ab79939c.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.7f423e8b.js.map": "/static/js/main.7f423e8b.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c6eb3b7.css",
-    "static/js/main.ab79939c.js"
+    "static/js/main.7f423e8b.js"
   ]
 }
